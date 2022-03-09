@@ -51,7 +51,6 @@ import java.util.Scanner;
         try {
             Thread.sleep(10000);
         } catch (InterruptedException ie) {
-            //Handle exception
         }
     }
 }
